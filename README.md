@@ -1,2 +1,3 @@
 # transformers-course
-Hugging Face transformers course
+
+Hugging Face transformers course.
